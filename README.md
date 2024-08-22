@@ -7,6 +7,7 @@ Curious to see if his claim was true, we started examining our chat logs. During
 That's when I recalled a discussion with my friends about analyzing group chats to uncover user engagement for a project they were working on. Inspired by their idea, curious about the role of emojis in our digital conversations, and admittedly wanting to see if my friend's claim held up, I decided to dive into the data of my own WhatsApp group.
 ## The second step of a Data Analysis Project - Collet and Store Data
 To collect the chat needed for my analysis, I have used the whatsapp chat export feature. This feature allowed me to extract the chat in the form of a zip file. once I have extracted this jip file, I was left with  Whatsapp chat analysis with bitter bananas.txt file which I could use for my data analysis.
+### Before
 ![Screenshot 2024-08-22 163255](https://github.com/user-attachments/assets/0da35139-dcce-4673-94ce-f4b5e1f1ea91)
 
 ## The thrid step of a Data Analysis Project - Process, Clean and Prepare Data
@@ -20,7 +21,7 @@ Example:
 raw_text = '[09/12/19, 8:49:53 PM] Aman: How are you?'
 
 This should be broken down into: {09/12/19}, {8:49:53 PM} - {Aman}: {How are you?}
-
+### After
 ![after](https://github.com/user-attachments/assets/ce076099-a969-48ce-8306-96dce4333e21)
 ## The fourth step of a Data Analysis Project - Analyse Data
 Let us look at some general statistics before we get into answering our questions

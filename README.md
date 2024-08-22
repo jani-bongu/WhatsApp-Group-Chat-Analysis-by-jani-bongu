@@ -37,10 +37,10 @@ Now that we have explored various statistics and analytics of the chat, let's ad
 
 ![active user](https://github.com/user-attachments/assets/203a30fa-d2fb-4ca7-ba77-a3c196e4d643)
 
-User with the most number of messages:
-User
-Koushal    384
-Name: MessageCount, dtype: int64
+##### User with the most number of messages:
+##### User
+##### Koushal - 384
+##### Name: MessageCount, dtype: int64
 From the above results, it can be concluded that Koushal (my friend ) sent the highest number of messages. Seeing this, my friend was very excited that his claim was true. However, this made me ponder further: 
 #### Does sending the most messages really mean he was the most frequently active? What do you think?
 

@@ -27,6 +27,13 @@ Let us look at some general statistics before we get into answering our question
 ### Group stats :
 https://github.com/user-attachments/assets/bd992804-ccb7-44dd-8372-1b383504f344
 ### User Wise stats :
+https://github.com/user-attachments/assets/19120eab-d418-4d8e-96f8-d55896463cba
+
+## The last(fifth) step of a Data Analysis Project - Present the Insights & Results
+
+#### Initial Results
+Now that we have explored various statistics and analytics of the chat, let's address our main objective: was my friend truly the unsung hero of the group?
+
 
 
 

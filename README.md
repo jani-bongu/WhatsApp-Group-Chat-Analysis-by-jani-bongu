@@ -11,10 +11,24 @@ To collect the chat needed for my analysis, I have used the whatsapp chat export
 
 ## The thrid step of a Data Analysis Project - Process, Clean and Prepare Data
 After collecting the chat data from WhatsApp, I began processing and cleaning it to ensure accurate analysis. This involved parsing the raw .txt file to extract relevant information such as date, time, author, and message content. I handled inconsistencies in formatting and filtered out non-message lines like timestamps and notifications. Each message was then categorized and stored in a structured format within a pandas DataFrame. This meticulous data cleaning process was crucial to transforming the unstructured chat logs into a clean, analyzable dataset, ready for further exploration and visualization.
+### DATA PREPARATION : Let's take a single line from the chat log (which can be referred to as "raw text") and break it down into four key components:
+
+{Date}, {Time} - {user}: {Message}
+
+Example:
+
+raw_text = '[09/12/19, 8:49:53 PM] Aman: How are you?'
+
+This should be broken down into: {09/12/19}, {8:49:53 PM} - {Aman}: {How are you?}
+
 ![after](https://github.com/user-attachments/assets/ce076099-a969-48ce-8306-96dce4333e21)
 ## The fourth step of a Data Analysis Project - Analyse Data
 Let us look at some general statistics before we get into answering our questions
-### Group stats
+### Group stats :
+https://github.com/user-attachments/assets/bd992804-ccb7-44dd-8372-1b383504f344
+### User Wise stats :
+
+
 
 
 

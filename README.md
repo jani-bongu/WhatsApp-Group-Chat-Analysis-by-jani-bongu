@@ -34,6 +34,23 @@ https://github.com/user-attachments/assets/19120eab-d418-4d8e-96f8-d55896463cba
 #### Initial Results
 Now that we have explored various statistics and analytics of the chat, let's address our main objective: was my friend truly the unsung hero of the group?
 
+![active user](https://github.com/user-attachments/assets/203a30fa-d2fb-4ca7-ba77-a3c196e4d643)
+
+User with the most number of messages:
+User
+Koushal    384
+Name: MessageCount, dtype: int64
+From the above results, it can be concluded that Koushal (my friend ) sent the highest number of messages. Seeing this, my friend was very excited that his claim was true. However, this made me ponder further: 
+#### Does sending the most messages really mean he was the most frequently active? What do you think?
+
+## Let's think further!!!
+I don't think I can say that my friend is the most active member of the group, just because he has sent the highest number of messages. I think that most active member of the group is the one who has engaged highly on most number of days rather than just having a total highest. Let's see how we can find that!
+
+Author with the most number of top contributor days:
+
+
+
+
 
 
 

@@ -11,5 +11,7 @@ To collect the chat needed for my analysis, I have used the whatsapp chat export
 
 ## The thrid step of a Data Analysis Project - Process, Clean and Prepare Data
 After collecting the chat data from WhatsApp, I began processing and cleaning it to ensure accurate analysis. This involved parsing the raw .txt file to extract relevant information such as date, time, author, and message content. I handled inconsistencies in formatting and filtered out non-message lines like timestamps and notifications. Each message was then categorized and stored in a structured format within a pandas DataFrame. This meticulous data cleaning process was crucial to transforming the unstructured chat logs into a clean, analyzable dataset, ready for further exploration and visualization.
+![after](https://github.com/user-attachments/assets/ce076099-a969-48ce-8306-96dce4333e21)
+
 
 

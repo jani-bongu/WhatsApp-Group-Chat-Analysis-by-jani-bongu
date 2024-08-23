@@ -8,7 +8,8 @@ That's when I recalled a discussion with my friends about analyzing group chats 
 ## The second step of a Data Analysis Project - Collect and Store Data
 To collect the chat needed for my analysis, I have used the whatsapp chat export feature. This feature allowed me to extract the chat in the form of a zip file. once I have extracted this zip file, I was left with  Whatsapp chat analysis with bitter bananas.txt file which I could use for my data analysis.
 ### Before
-![Screenshot 2024-08-22 163255](https://github.com/user-attachments/assets/0da35139-dcce-4673-94ce-f4b5e1f1ea91)
+![before](https://github.com/user-attachments/assets/b48ce166-100f-43da-a132-21d2a83ca767)
+
 
 ## The thrid step of a Data Analysis Project - Process, Clean and Prepare Data
 After collecting the chat data from WhatsApp, I began processing and cleaning it to ensure accurate analysis. This involved parsing the raw .txt file to extract relevant information such as date, time, author, and message content. I handled inconsistencies in formatting and filtered out non-message lines like timestamps and notifications. Each message was then categorized and stored in a structured format within a pandas DataFrame. This meticulous data cleaning process was crucial to transforming the unstructured chat logs into a clean, analyzable dataset, ready for further exploration and visualization.
@@ -22,7 +23,8 @@ raw_text = '[09/12/19, 8:49:53 PM] Aman: How are you?'
 
 This should be broken down into: {09/12/19}, {8:49:53 PM} - {Aman}: {How are you?}
 ### After
-![after](https://github.com/user-attachments/assets/ce076099-a969-48ce-8306-96dce4333e21)
+![after](https://github.com/user-attachments/assets/b88c8089-f309-4d29-b5dc-e0690c6285c7)
+
 ## The fourth step of a Data Analysis Project - Analyse Data
 Let us look at some general statistics before we get into answering our questions
 ### Group stats :
